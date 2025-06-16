@@ -1,6 +1,6 @@
 # 🎮 Tetris Web App – Classic Puzzle Game in the Browser
 
-👉 **[LIVE DEMO HERE](tetris-sandy-delta.vercel.app)** <!-- Replace with your live link -->
+👉 **[LIVE DEMO HERE](tetris-sandy-delta.vercel.app)** 
 
 Welcome to my web-based version of **Tetris**, one of the most iconic puzzle games ever made!  
 This project was built completely from scratch using **pure HTML, CSS, and JavaScript**, with no external libraries or frameworks.
@@ -21,13 +21,13 @@ This project was built completely from scratch using **pure HTML, CSS, and JavaS
 
 #### 🏠 Main Menu
 
-![Main Menu](public/images/Play.png) <!-- Replace with correct path -->
+![Gameplay](public/images/Main.png)
 
 ---
 
 #### ▶️ In-Game View
 
-![Gameplay](public/images/Main.png)
+![Main Menu](public/images/Play.png) 
 
 ---
 
