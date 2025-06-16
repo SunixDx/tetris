@@ -5,9 +5,6 @@
 Welcome to my web-based version of **Tetris**, one of the most iconic puzzle games ever made!  
 This project was built completely from scratch using **pure HTML, CSS, and JavaScript**, with no external libraries or frameworks.
 
-👉 **[WATCH DEMO VIDEO](public/video/video.mp4)** <!-- Replace with actual video link -->
-
----
 
 ## 🕹️ Features
 
